@@ -10,6 +10,7 @@
 ###
 
 <img align="right" height="150" src="https://media1.tenor.com/m/8tIYSYOsxtcAAAAd/i-am-atomic-eminence-in-shadow.gif"  />
+<img src="https://media1.tenor.com/m/8tIYSYOsxtcAAAAd/i-am-atomic-eminence-in-shadow.gif" align="right" width="150" height="150" />
 
 ###
 
