@@ -1,6 +1,10 @@
-<h2 align="left">Hi 👋! My name is Djaël and I'm a young developper, from france</h2>
+<img align="right" height="200" src="https://media1.tenor.com/m/8tIYSYOsxtcAAAAd/i-am-atomic-eminence-in-shadow.gif"  />
 
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djael-ml&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djael-ml&theme=midnight-purple&layout=compact&stats_format=bytes)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=djael-ml&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=djael-ml&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2&stats_format=bytes" height="150" alt="languages graph"  />
+</div>
+
+###
