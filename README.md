@@ -58,7 +58,7 @@ Je préfère **l’ombre à la mise en avant**, et **la compétence à la préte
 
 ## 🕯️ Citation
 
-> “Dans l’ombre, je forge ma force.”  
+> “Run why, run where. Why would I run.”  
 > — *The Eminence in Shadow*
 
 ---
@@ -68,5 +68,5 @@ Je préfère **l’ombre à la mise en avant**, et **la compétence à la préte
 </p>
 
 <p align="center">
-  <b>Développeur indépendant • En quête d’excellence silencieuse</b>
+  <b>Développeur indépendant • En quête d’excellence</b>
 </p>
