@@ -32,7 +32,7 @@ I also contribute to the development of the studio **[GameLys](https://github.co
 ## 📊 Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djael-ml&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" width="49px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=djael-ml&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" width="490px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djael-ml&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" width="49%"/>
 </p>
 
