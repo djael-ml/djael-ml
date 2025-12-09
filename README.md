@@ -215,7 +215,6 @@ print(f"Welcome to {atomic.name}'s digital realm 🚀")
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=djael-ml&theme=midnight-purple&hide_border=true&background=0D1117&ring=7F00FF&fire=BB00FF&currStreakLabel=C0C0C0" width="49%" alt="GitHub Streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djael-ml&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=7F00FF&text_color=C0C0C0" width="49%" alt="Top Languages"/>
 
 </div>
 
