@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=7F00FF&center=true&vCenter=true&width=1000&lines=I+am+Atomic...;Developer+in+the+Shadows+💻;Efficiency+over+Fame;Master+of+Web+%26+AI" alt="Typing SVG">
-
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27&height=120&section=header&text=djael-ml&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header Banner" />
 
@@ -12,7 +9,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/djael-ml?label=Stars&style=for-the-badge&color=7F00FF&logo=github&logoColor=white)](https://github.com/djael-ml)
 
 <!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
 
 </div>
 
@@ -28,11 +25,11 @@ class Atomic:
         self.name = "djael-ml"
         self.alias = "Atomic"
         self.location = "France 🇫🇷"
-        self.role = "Full-Stack Developer & AI Enthusiast"
+        self.role = "Full-Stack Developer & AI-Assisted Creator"
         self.philosophy = "I do not seek fame, I seek mastery"
         self.passions = [
             "Web Design & Development",
-            "AI & Machine Learning",
+            "AI-Assisted Projects",
             "Browser Extensions",
             "System Automation",
             "Clean Architecture"
@@ -41,8 +38,8 @@ class Atomic:
     def current_focus(self):
         return {
             "languages": ["Python", "JavaScript", "Java"],
-            "domains": ["WebDev", "AI Projects", "Extensions"],
-            "environment": "Debian + VSCode",
+            "domains": ["WebDev", "Extensions", "AI-Assisted Tools"],
+            "environment": "Debian + VSCodium",
             "project": "GameLys Studio"
         }
     
@@ -61,11 +58,11 @@ print(f"Welcome to {atomic.name}'s digital realm 🚀")
 
 🎯 **Philosophy** I do not seek fame, I seek mastery
 
-🌍 **Based in** France | 💻 **Environment** Debian + VSCode
+🌍 **Based in** France | 💻 **Environment** Debian + VSCodium
 
-🔥 **Specialized in** Web Design, Python Automation, AI Projects & Extensions
+🔥 **Specialized in** Web Design, Python Automation & Extensions
 
-🌱 **Currently Working on** GameLys Studio & AI-powered tools
+🌱 **Currently Working on** GameLys Studio & AI-Assisted tools
 
 💡 **Fun Fact** I work in the shadows, but my code shines in production
 
@@ -88,22 +85,13 @@ print(f"Welcome to {atomic.name}'s digital realm 🚀")
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🤖 AI & Data Science
+### 🗄️ Tools & Environment
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🗄️ Databases & Tools
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
+![Linux](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 </div>
 
@@ -146,24 +134,24 @@ print(f"Welcome to {atomic.name}'s digital realm 🚀")
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🤖 AI Projects</h3>
+<h3 align="center">🤖 AI-Assisted Projects</h3>
 <p align="center">
-<strong>Machine Learning & Automation</strong>
+<strong>Leveraging AI for Development</strong>
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge" alt="AI"/>
+<img src="https://img.shields.io/badge/AI_Assisted-00D9FF?style=for-the-badge" alt="AI"/>
 <img src="https://img.shields.io/badge/Automation-00BCD4?style=for-the-badge" alt="Automation"/>
 </p>
 
 <p align="left">
-<strong>✨ Focus Areas:</strong><br>
-• Machine Learning models<br>
-• Automation scripts & tools<br>
-• Data analysis pipelines<br>
-• AI-powered browser extensions<br>
-• Intelligent system optimization
+<strong>✨ Approach:</strong><br>
+• Using AI to accelerate development<br>
+• Automation scripts & productivity tools<br>
+• AI-assisted code generation<br>
+• Smart browser extensions<br>
+• Intelligent workflow optimization
 </p>
 
 </td>
@@ -226,7 +214,7 @@ print(f"Welcome to {atomic.name}'s digital realm 🚀")
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=djael-ml&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=7F00FF&icon_color=BB00FF&text_color=C0C0C0" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=djael-ml&theme=midnight-purple&hide_border=true&background=0D1117&ring=7F00FF&fire=BB00FF&currStreakLabel=C0C0C0" width="49%" alt="GitHub Streak"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djael-ml&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=7F00FF&text_color=C0C0C0" width="49%" alt="Top Languages"/>
 
 </div>
@@ -258,9 +246,9 @@ print(f"Welcome to {atomic.name}'s digital realm 🚀")
       <br><sub>Modern UI, Minimal Design</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" alt="AI"/>
-      <br><strong>AI Projects</strong>
-      <br><sub>ML Models, Data Science</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="60" height="60" alt="AI"/>
+      <br><strong>AI-Assisted Dev</strong>
+      <br><sub>Leveraging AI Tools</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="60" height="60" alt="Extensions"/>
@@ -281,7 +269,8 @@ Operating System:
   - Debian Linux (Primary)
 
 Code Editor:
-  - Visual Studio Code (Main IDE)
+  - VSCodium (Main IDE)
+  - Open-source, privacy-focused
   - Optimized for Python & Web Development
 
 Terminal:
@@ -311,10 +300,11 @@ Workflow Philosophy:
 
 ```python
 atomic_activities = {
-    "develop": ["Tools", "Scripts", "Web Apps", "AI Models", "Extensions"],
-    "study": ["Software Architecture", "ML Algorithms", "Design Patterns"],
-    "optimize": ["Linux Environments", "Code Performance", "System Workflows"],
+    "develop": ["Tools", "Scripts", "Web Apps", "Extensions"],
+    "study": ["Software Architecture", "Design Patterns", "System Optimization"],
+    "optimize": ["Linux Environments", "Code Performance", "Workflows"],
     "contribute": ["GameLys Studio", "Open Source Projects"],
+    "leverage": ["AI-Assisted Development", "Automation Tools"],
     "philosophy": "Master the craft, work in the shadows"
 }
 ```
@@ -362,7 +352,7 @@ atomic_activities = {
 <img src="https://komarev.com/ghpvc/?username=djael-ml&color=7F00FF&style=for-the-badge&label=Visitors+in+the+Shadows" alt="Profile Views" />
 
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Divider" />
 
 </div>
 
