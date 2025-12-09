@@ -1,72 +1,379 @@
-<!-- README for the GitHub profile of djael-ml -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7F00FF&center=true&vCenter=true&width=650&lines=I+am+Atomic...;Developer+in+the+Shadows+💻;Efficiency+over+Fame" alt="Typing SVG">
-</p>
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=7F00FF&center=true&vCenter=true&width=1000&lines=I+am+Atomic...;Developer+in+the+Shadows+💻;Efficiency+over+Fame;Master+of+Web+%26+AI" alt="Typing SVG">
+
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27&height=120&section=header&text=djael-ml&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header Banner" />
+
+<!-- Profile Stats -->
+[![GitHub followers](https://img.shields.io/github/followers/djael-ml?label=Followers&style=for-the-badge&color=7F00FF&logo=github&logoColor=white)](https://github.com/djael-ml?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=djael-ml&color=7F00FF&style=for-the-badge&label=Profile+Views)](https://github.com/djael-ml)
+[![GitHub stars](https://img.shields.io/github/stars/djael-ml?label=Stars&style=for-the-badge&color=7F00FF&logo=github&logoColor=white)](https://github.com/djael-ml)
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
 
 ---
 
 ## 🕶️ About Me
 
-> I do not seek fame,  
-> I seek **mastery**.
+<div>
 
-Passionate developer, currently focusing on:
-- 🐍 **Python** — scripts, automation, logic, and system tools  
-- 🌐 **WebDev** — minimal front-end, functional back-end  
-- ☕ **Java** — solid foundations and project-oriented practice  
+```python
+class Atomic:
+    def __init__(self):
+        self.name = "djael-ml"
+        self.alias = "Atomic"
+        self.location = "France 🇫🇷"
+        self.role = "Full-Stack Developer & AI Enthusiast"
+        self.philosophy = "I do not seek fame, I seek mastery"
+        self.passions = [
+            "Web Design & Development",
+            "AI & Machine Learning",
+            "Browser Extensions",
+            "System Automation",
+            "Clean Architecture"
+        ]
+    
+    def current_focus(self):
+        return {
+            "languages": ["Python", "JavaScript", "Java"],
+            "domains": ["WebDev", "AI Projects", "Extensions"],
+            "environment": "Debian + VSCode",
+            "project": "GameLys Studio"
+        }
+    
+    def motto(self):
+        return "Run why, run where. Why would I run"
 
-I also contribute to the development of the studio **[GameLys](https://github.com/GameLys)**, a collective aiming to create an independent game development studio.
+atomic = Atomic()
+print(f"Welcome to {atomic.name}'s digital realm 🚀")
+```
+
+</div>
+
+<div align="center">
+
+### ⚡ Quick Facts
+
+🎯 **Philosophy** I do not seek fame, I seek mastery
+
+🌍 **Based in** France | 💻 **Environment** Debian + VSCode
+
+🔥 **Specialized in** Web Design, Python Automation, AI Projects & Extensions
+
+🌱 **Currently Working on** GameLys Studio & AI-powered tools
+
+💡 **Fun Fact** I work in the shadows, but my code shines in production
+
+</div>
 
 ---
 
-## ⚔️ What I Do
+## 🛠️ Tech Stack & Skills
 
-- 💻 Develop tools, scripts, and prototypes  
-- 🧠 Study software structures and clean architecture  
-- ⚙️ Work on optimized Linux environments  
-- 🎮 Involvement in the **GameLys** project
+<div align="center">
+
+### 🔥 Languages & Frameworks
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🤖 AI & Data Science
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🗄️ Databases & Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 Statistics
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🎮 GameLys Studio</h3>
+<p align="center">
+<strong>Independent Game Development Studio</strong>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djael-ml&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" width="370px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djael-ml&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" width="333px"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Game_Dev-FF0080?style=for-the-badge" alt="Game Dev"/>
+<img src="https://img.shields.io/badge/Collective-00C853?style=for-the-badge" alt="Collective"/>
 </p>
+
+<p align="left">
+<strong>✨ Mission:</strong><br>
+• Building an independent game studio<br>
+• Collaborative development approach<br>
+• Focus on innovative gameplay<br>
+• Community-driven projects<br>
+• Open-source contributions
+</p>
+
+<p align="center">
+<a href="https://github.com/GameLys">
+<img src="https://img.shields.io/badge/🔗_Visit_GameLys-7F00FF?style=for-the-badge&logo=github&logoColor=white" alt="GameLys"/>
+</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 AI Projects</h3>
+<p align="center">
+<strong>Machine Learning & Automation</strong>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge" alt="AI"/>
+<img src="https://img.shields.io/badge/Automation-00BCD4?style=for-the-badge" alt="Automation"/>
+</p>
+
+<p align="left">
+<strong>✨ Focus Areas:</strong><br>
+• Machine Learning models<br>
+• Automation scripts & tools<br>
+• Data analysis pipelines<br>
+• AI-powered browser extensions<br>
+• Intelligent system optimization
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🌐 Web Design</h3>
+<p align="center">
+<strong>Modern & Minimal Interfaces</strong>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Design-E91E63?style=for-the-badge" alt="Design"/>
+<img src="https://img.shields.io/badge/UX/UI-9C27B0?style=for-the-badge" alt="UX/UI"/>
+</p>
+
+<p align="left">
+<strong>✨ Approach:</strong><br>
+• Minimal front-end design<br>
+• Functional back-end architecture<br>
+• Performance-first philosophy<br>
+• Clean and maintainable code<br>
+• User-centric interfaces
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🧩 Extensions</h3>
+<p align="center">
+<strong>Browser Tools & Plugins</strong>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome"/>
+<img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Firefox"/>
+</p>
+
+<p align="left">
+<strong>✨ Development:</strong><br>
+• Browser extension development<br>
+• Cross-browser compatibility<br>
+• Performance optimization<br>
+• User privacy focused<br>
+• Enhanced productivity tools
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=djael-ml&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=7F00FF&icon_color=BB00FF&text_color=C0C0C0" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djael-ml&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=7F00FF&text_color=C0C0C0" width="49%" alt="Top Languages"/>
+
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=djael-ml&bg_color=00000000&color=7F00FF&line=BB00FF&point=C0C0C0&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=djael-ml&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=7F00FF&line=BB00FF&point=FFFFFF&area_color=7F00FF&title_color=7F00FF" alt="Contribution Graph" />
+
+</div>
 
 ---
 
-## 🕯️ Quote
+## 🎯 Development Focus
 
-> “Run why, run where. Why would I run”  
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
+      <br><strong>Python Development</strong>
+      <br><sub>Scripts, Automation, AI/ML</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="Web"/>
+      <br><strong>Web Design</strong>
+      <br><sub>Modern UI, Minimal Design</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" alt="AI"/>
+      <br><strong>AI Projects</strong>
+      <br><sub>ML Models, Data Science</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="60" height="60" alt="Extensions"/>
+      <br><strong>Extensions</strong>
+      <br><sub>Browser Tools, Plugins</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💻 Development Environment
+
+<div>
+
+```yaml
+Operating System:
+  - Debian Linux (Primary)
+
+Code Editor:
+  - Visual Studio Code (Main IDE)
+  - Optimized for Python & Web Development
+
+Terminal:
+  - Bash/Zsh with custom configuration
+  - Optimized Linux environment
+
+Development Tools:
+  - Git & GitHub
+  - Docker
+  - Browser DevTools
+  - Python Virtual Environments
+  
+Workflow Philosophy:
+  - Clean architecture
+  - Efficiency over complexity
+  - System optimization
+  - Automated workflows
+```
+
+</div>
+
+---
+
+## ⚔️ What I Do
+
+<div align="center">
+
+```python
+atomic_activities = {
+    "develop": ["Tools", "Scripts", "Web Apps", "AI Models", "Extensions"],
+    "study": ["Software Architecture", "ML Algorithms", "Design Patterns"],
+    "optimize": ["Linux Environments", "Code Performance", "System Workflows"],
+    "contribute": ["GameLys Studio", "Open Source Projects"],
+    "philosophy": "Master the craft, work in the shadows"
+}
+```
+
+</div>
+
+---
+
+## 🕯️ Philosophy
+
+<div align="center">
+
+> **"I do not seek fame, I seek mastery."**
+
+> **"Run why, run where. Why would I run"**  
 > — *The Eminence in Shadow*
 
----
+### 💜 Core Values
 
-<p align="center">
-  <a href="https://github.com/GameLys">
-    <img src="https://img.shields.io/badge/↳%20GameLys-Visit-7F00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Link to GameLys">
-  </a>
-</p>
+**Efficiency** • **Quality** • **Mastery** • **Innovation**
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=djael-ml&label=Profile+Views&color=7F00FF&style=flat-square" alt="Profile Views" />
-</p>
+## 🔗 Connect & Collaborate
+
+<div align="center">
+
+[![GameLys](https://img.shields.io/badge/↳_GameLys-Visit_Studio-7F00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/GameLys)
+[![GitHub](https://img.shields.io/badge/GitHub-djael--ml-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/djael-ml)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=80&section=footer&animation=twinkling" alt="Bottom wave effect" />
-</p>
+<div align="center">
+
+### 💫 "Code in silence, deliver in excellence" 💫
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27&height=100&section=footer&animation=twinkling" alt="Footer Banner" />
+
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=djael-ml&color=7F00FF&style=for-the-badge&label=Visitors+in+the+Shadows" alt="Profile Views" />
+
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ Star my repositories if they resonate with your vision ⭐**
+
+Made with 💜 in the shadows
+
+*Atomic • Master of the Unseen*
+
+</div>
